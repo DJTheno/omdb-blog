@@ -1,0 +1,17 @@
+body{
+    background-color:black;
+    color:white;
+}
+
+header{
+color: whitesmoke;
+text-align: center;
+}
+form{
+    text-align: center;
+    padding-bottom:40px;
+}
+
+label{
+    color:whitesmoke;
+}
